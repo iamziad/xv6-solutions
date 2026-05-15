@@ -3,21 +3,21 @@
 
 My study notes: https://github.com/iamziad/mit-6s081-operating-systems-engineering
 
-| Feature / Task    | Branch  | Status | Notes        |
-|-------------------+---------+--------+--------------|
-| Sleep Utility     | util    | PASS   | Breaking ice |
-| Pingpong          | util    | -      |              |
-| Primes            | util    | -      |              |
-| Find              | util    | -      |              |
-| Xargs             | util    | -      |              |
-|-------------------+---------+--------+--------------|
-| System Call Trace | syscall | -      |              |
-| Sysinfo           | syscall | -      |              |
-|-------------------+---------+--------+--------------|
-| Page Tables       | pgtbl   | -      |              |
-| Print Page Table  | pgtbl   | -      |              |
-| Detect Access     | pgtbl   | -      |              |
-|-------------------+---------+--------+--------------|
-| Backtrace         | traps   | -      |              |
-| Alarm             | traps   | -      |              |
-|-------------------+---------+--------+--------------|
+| Feature / Task    | Branch  | Status | Notes                        |
+|-------------------+---------+--------+------------------------------|
+| Sleep Utility     | util    | PASS   | Breaking ice                 |
+| Pingpong          | util    | PASS   | a good application on pipes. |
+| Primes            | util    | -      |                              |
+| Find              | util    | -      |                              |
+| Xargs             | util    | -      |                              |
+|-------------------+---------+--------+------------------------------|
+| System Call Trace | syscall | -      |                              |
+| Sysinfo           | syscall | -      |                              |
+|-------------------+---------+--------+------------------------------|
+| Page Tables       | pgtbl   | -      |                              |
+| Print Page Table  | pgtbl   | -      |                              |
+| Detect Access     | pgtbl   | -      |                              |
+|-------------------+---------+--------+------------------------------|
+| Backtrace         | traps   | -      |                              |
+| Alarm             | traps   | -      |                              |
+|-------------------+---------+--------+------------------------------|
