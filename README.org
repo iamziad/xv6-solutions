@@ -9,7 +9,7 @@ My study notes: https://github.com/iamziad/mit-6s081-operating-systems-engineeri
 | Pingpong          | util    | PASS   | a good application on pipes.                                           |
 | Primes            | util    | PASS   | a bit hard, but i learned a lot and was very fun.                      |
 | Find              | util    | PASS   | challenged my problem solving and C skills , not just my OS knowledge. |
-| Xargs             | util    | -      |                                                                        |
+| Xargs             | util    | PASS   | same as Find, but a bit easier, shows how hard is C without glibc.     |
 |-------------------+---------+--------+------------------------------------------------------------------------|
 | System Call Trace | syscall | -      |                                                                        |
 | Sysinfo           | syscall | -      |                                                                        |
